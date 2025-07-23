@@ -25,7 +25,7 @@ cd rbxfetch
 pip install -r requirements.txt
 ```
 
------
+---
 
 Alternatively, you can download and extract the project directly:
 
@@ -35,8 +35,6 @@ Alternatively, you can download and extract the project directly:
     ```bash
     pip install -r requirements.txt
     ```
-
------
 
 ---
 
