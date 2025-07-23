@@ -7,7 +7,8 @@
 
 **rbxfetch** is a Roblox mass clothing downloader for private shirts, pants, and other assets — directly from the terminal.  
 
-https://files.catbox.moe/q9wn0w.gif
+![rbxfetch demo](https://files.catbox.moe/q9wn0w.gif)
+
 ---
 
 ## 📦 Installation
