@@ -15,7 +15,7 @@ try:
     from colorama import Fore, Style, init
     import time
 except ImportError:
-    print(f'{Fore.RED}[ERROR]{Style.RESET_ALL} Missing dependencies detected. Installing...')
+    print(f'Missing dependencies detected. Installing...')
     subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt"])
 
 init(autoreset=True)
@@ -353,7 +353,8 @@ successful_downloads = 0
 for asset_id in asset_ids:
     if forge_clothing(asset_id, selected_type, settings["use_custom_template"]):
         successful_downloads += 1
-    time.sleep(1)
+
+    time.sleep(2)
 
 print(f"\n{Fore.GREEN}[RBXFETCH]{Style.RESET_ALL} Download process completed!")
 print(f"{Fore.GREEN}[STATS]{Style.RESET_ALL} Successfully downloaded: {successful_downloads} items")
