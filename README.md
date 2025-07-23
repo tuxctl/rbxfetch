@@ -27,11 +27,11 @@ pip install -r requirements.txt
 
 ---
 
-Alternatively, you can download and extract the project directly:
+Alternatively, you can download and extract **rbxfetch** directly:
 
-1.  Download the project from [here](https://github.com/tuxctl/rbxfetch/archive/refs/heads/main.zip).
+1.  Download the **rbxfetch** from [here](https://github.com/tuxctl/rbxfetch/archive/refs/heads/main.zip).
 2.  Extract the downloaded ZIP file to your preferred location.
-3.  Navigate to the extracted project directory and install the required dependencies using:
+3.  Navigate to the extracted **rbxfetch** directory and install the required dependencies using:
     ```bash
     pip install -r requirements.txt
     ```
@@ -47,6 +47,5 @@ py src/main.py
 ---
 
 ## ⚠️ Note
-
-rbxfetch works best on a stable, direct internet connection. Using VPNs or proxies may cause errors or prevent it from working properly.
+**rbxfetch** works best on a stable, direct internet connection. Using VPNs or proxies may cause errors or prevent it from working properly.
 
