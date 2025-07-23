@@ -26,3 +26,10 @@ pip install -r requirements.txt
 ```bash
 py src/main.py
 ```
+
+---
+
+## ⚠️ Note
+
+rbxfetch works best on a stable, direct internet connection. Using VPNs or proxies may cause errors or prevent it from working properly.
+
