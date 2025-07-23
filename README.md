@@ -14,15 +14,29 @@
 
 ---
 
+
 ## 📦 Installation
 
-Python 3.x is required to run this project.
+**Python 3.x** is required to run this project.
 
 ```bash
 git clone https://github.com/tuxctl/rbxfetch.git
 cd rbxfetch
 pip install -r requirements.txt
 ```
+
+-----
+
+Alternatively, you can download and extract the project directly:
+
+1.  Download the project from [here](https://github.com/tuxctl/rbxfetch/archive/refs/heads/main.zip).
+2.  Extract the downloaded ZIP file to your preferred location.
+3.  Navigate to the extracted project directory and install the required dependencies using:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+-----
 
 ---
 
