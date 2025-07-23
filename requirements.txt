@@ -1,0 +1,4 @@
+Pillow
+colorama
+requests
+xmltodict
