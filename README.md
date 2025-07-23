@@ -16,6 +16,8 @@
 
 ## 📦 Installation
 
+Python 3.x is required to run this project.
+
 ```bash
 git clone https://github.com/tuxctl/rbxfetch.git
 cd rbxfetch
