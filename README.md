@@ -5,7 +5,7 @@
 ![Stars](https://img.shields.io/github/stars/tuxctl/rbxfetch?style=for-the-badge&color=gold)
 ![Forks](https://img.shields.io/github/forks/tuxctl/rbxfetch?style=for-the-badge&color=lightgray)
 
-**rbxfetch** is a Roblox mass clothing downloader for private shirts, pants, and other assets — directly from the terminal.
+**rbxfetch** is a Roblox mass clothing downloader for private shirts, pants, and other assets — directly from the terminal. This project has not yet been completed. It may not work stable.
 
 *Originally forked from [Oztturk/RBXDL](https://github.com/Oztturk/RBXDL "roblox pro")*
 
